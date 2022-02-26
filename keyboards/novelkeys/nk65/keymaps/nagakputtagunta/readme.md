@@ -1,5 +1,4 @@
-# My keymap for NK65.
-=========================================================
+# My keymap for NK65 RFP Edition
 
 ## Configurations
 VIA : Disabled
